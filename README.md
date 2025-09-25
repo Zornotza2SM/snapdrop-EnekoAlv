@@ -9,7 +9,7 @@
 
 Por ejemplo, la dirección de este equipo es:
 `INF200615-8GELA.zornotzalh.eus`
-
+fahfahahf
 2. ¿Que puertos expone esta aplicacion? ¿Sabrías decirme para que protocolos e usan estos puertos?
 3. ¿Cuantos contenedores incluye este proyecto?
 4. ¿Has notado cambios en la carpeta de tu proyecto al desplegar la aplicación? Indica cuales.
