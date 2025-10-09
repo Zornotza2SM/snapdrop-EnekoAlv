@@ -23,4 +23,4 @@ Por ejemplo, la dirección de este equipo es:
 
     -->que se a creado una carpeta nueva en el proyecto
 
-5. Cuando termines de responde a todas las preguntas. Haz commit de los cambios realizados con el mensaje.
+5. Cuando termines de responde a todas las preguntas. Haz commit de los cambios realizados con el mensaje. 
