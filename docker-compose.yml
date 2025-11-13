@@ -76,6 +76,10 @@ services:
       - 8200:8200
     restart: unless-stopped
 
+  mi-servicio:
+    build:
+      context: .
+
 volumes:
   code_config:
   portainer_data:
